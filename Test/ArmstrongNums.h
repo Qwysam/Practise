@@ -1,10 +1,4 @@
-//
-//  ArmstrongNums.cpp
-//  Test
-//
-//  Created by Всеволод Жданов on 18.06.2020.
-//  Copyright © 2020 Всеволод Жданов. All rights reserved.
-//
+
 
 #include <stdio.h>
 #include <math.h>
